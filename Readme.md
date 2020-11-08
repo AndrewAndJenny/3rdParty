@@ -120,7 +120,7 @@ sudo apt-get insatll qt-dafault
 ## GDAL
 
 ```
-sudo apt-get insatll libgdal-dev gdal-bin
+sudo apt-get insll libgdal-dev gdal-bin
 ```
 
 
