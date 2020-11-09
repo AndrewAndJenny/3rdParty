@@ -98,9 +98,9 @@ sudo apt-get install libcgal-dev
 apt-get install libcgal-demo
 ```
 
-* 4.1 [source code build](https://blog.csdn.net/miscclp/article/details/44087749)
+* 5.0.0 [source code build](https://blog.csdn.net/miscclp/article/details/44087749)
 
-install essential package
+Start by installing all the dependency
 ```
 sudo apt-get install libgmp-dev libmpfr-dev
 ```
