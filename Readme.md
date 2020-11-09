@@ -112,7 +112,7 @@ sudo apt-get install libgmp-dev libmpfr-dev
 ## Qt5
 
 ```
-sudo apt-get insatll qt-dafault
+sudo apt-get install qt-dafault
 ```
 
 
