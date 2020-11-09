@@ -120,10 +120,17 @@ sudo apt-get insatll qt-dafault
 ## GDAL
 
 ```
-sudo apt-get insatll libgdal-dev gdal-bin
+sudo apt-get install libgdal-dev gdal-bin
 ```
 
+if occur
 
+```
+undefined reference to `sqlite3_column_origin_name'
+undefined reference to `sqlite3_column_table_name'
+```
+
+Please co-compile [sqlite3](https://www.cnblogs.com/xuanmanstein/p/13227545.html)
 
 ## vcglib
 
