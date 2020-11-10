@@ -50,14 +50,16 @@ sudo apt install libpcl-dev
 **pcl include a list of 3rdParty**
 ```
 eigin(sudo apt install libeigin3-dev)
-boost(sudo apt install libboost-all-dev)
+boost(sudo apt install libboost-all-dev(1.58.0.1))
 vtk
 flann
 OpenNI2
 Qhull
 ```
 
+**notice**
 
+if you want compile the CGAL5.0.0,you should build boost version of 1.66 and more. 
 
 ## Opencv+contrib
 
