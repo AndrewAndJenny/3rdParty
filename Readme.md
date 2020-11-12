@@ -12,7 +12,7 @@ the libraries of this depository as follows:
 * CGAL(version 4/5)
 * Qt5
 * GDAL
-* vcglib
+* vcglib(2.0.0/1.14.0)
 * cere
 * pdal
 
@@ -159,7 +159,12 @@ sudo apt-get install libeigen3-dev
 sudo apt-get install libsuitesparse-dev
 ```
 
-Notes:if we install **PCL** and **CMake**,we needn't install repeately. 
+Notes:
+
+* if we install **PCL** and **CMake**,we needn't install repeately. 
+
+* The cere2.0.0 version is very advanced ,so we **go back** to **cere1.14.0**
+* cere1.140 need **eigen3.2.x**
 
 8.2 decompression the cere of 3rdparty and copy it to /usr/local/
 
