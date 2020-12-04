@@ -188,14 +188,6 @@ sudo apt-get install libglew-dev libsdl2-dev libsdl2-image-dev libglm-dev libfre
 
 
 
-## Finaly
-
-I pack all of dependencies(we have compiled) into a .bz2.
-
-if you don't unpack them one by one,you can unpack  3rd_mini_package.bz2.
-
-
-
 ## configure bash
 
 I think if we use CMake to build project by ourselves, don't need do it:smile_cat:
