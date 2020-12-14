@@ -114,7 +114,7 @@ sudo apt-get install libgmp-dev libmpfr-dev
 ## Qt5
 
 ```
-sudo apt-get install qt-dafault
+sudo apt-get install qt-default
 ```
 
 
@@ -164,7 +164,7 @@ Notes:
 * if we install **PCL** and **CMake**,we needn't install repeately. 
 
 * The cere2.0.0 version is very advanced ,so we **go back** to **cere1.14.0**
-* cere1.140 need **eigen3.2.x**
+* cere1.14.0 need **eigen3.2.x**,and this version must not have BLAS、LAPACK、SuiteSparse and CXSparse
 
 8.2 decompression the cere of 3rdparty and copy it to /usr/local/
 
