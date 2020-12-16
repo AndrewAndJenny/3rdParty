@@ -7,18 +7,19 @@ all build packages under ubuntu 18.04
 
 the libraries of this depository as follows:
 * LASlib
-* PCL
-* Opencv+contrib
+* PCL-1.8.0
+* Opencv+contrib-3.4.3
 * CGAL(version 4/5)
-* Qt5
-* GDAL
-* vcglib(2.0.0/1.14.0)
-* cere
-* pdal
+* Qt5-5.9.5 + Qt5-svg
+* GDAL-2.2.3
+* cere-1.14
+* pdal-1.6.0
 
 * OpenGL
 * glew
 * glut
+* tbb
+* openmp
 
 
 ##  Usage
